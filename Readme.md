@@ -1,6 +1,7 @@
 ﻿# Личный проект «Глейси»
 
 * Студент: [Лариса Ахметшина](https://up.htmlacademy.ru/htmlcss/16/user/316213).
+* Наставник: [Юлия Долгун](https://up.htmlacademy.ru/htmlcss/16/user/42333).
 
 ---
 
